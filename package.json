@@ -1,6 +1,7 @@
 {
   "name": "crypto-dashboard",
   "version": "0.1.0",
+  "engines": {"node":"16.x", "npm": "8.5.5"},
   "private": true,
   "dependencies": {
     "@faker-js/faker": "^7.6.0",

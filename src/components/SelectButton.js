@@ -17,7 +17,7 @@ const SelectButton = ({children,selected,onClick}) => {
           },
           width: "22%",
         backgroundColor: selected ? "#fc6767" : "",
-        color: selected ? "black" : "",
+        color: selected ? "white" : "",
         fontWeight: selected ? 700 : 500,  
     }}  
     onClick={onClick}>
